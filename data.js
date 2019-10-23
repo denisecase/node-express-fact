@@ -61,7 +61,7 @@
   { "id": 402},
   { "id": 403},
   { "id": 404},
-  { "id": 405},
+  { "id": 405, "fact": "Two Third of Web Usage is on Mobile Devices.","by": "https://github.com/Deepthi1003/node-express-fact"},
   { "id": 406},
   { "id": 407},
   { "id": 408},
