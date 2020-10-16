@@ -14,7 +14,7 @@
     "Connor Beshears <connorbeshears@gmail.com> (https://github.com/connorbeshears)"
   ],
   "dependencies": {
-    "config": "latest",
+    "config": "3.3.2",
     "express": "latest",
     "helmet": "3.23.3"
   },
